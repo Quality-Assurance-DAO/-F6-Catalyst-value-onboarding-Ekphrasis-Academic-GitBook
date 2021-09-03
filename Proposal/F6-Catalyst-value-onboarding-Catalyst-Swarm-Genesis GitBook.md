@@ -1,6 +1,6 @@
 ## Problem Statement
 
-A community maintained documentation resource requires support to be sustainable.
+Documentation of Catalyst-Swarm, a self organizing community supporting the success of Project Catalyst, requires support to be sustainable.
 
 ## Describe your solution to the problem
 
