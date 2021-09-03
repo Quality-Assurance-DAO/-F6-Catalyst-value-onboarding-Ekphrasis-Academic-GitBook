@@ -12,7 +12,7 @@ Stephen has 30 years' experience in organizing academic, community and business 
 
 ## Website/GitHub repository (not required)
 
-https://stephen-rowan.gitbook.io/ekphrasis/
+https://catalyst-swarm.gitbook.io/catalyst-swarm-genesis/
 
 ## Detailed plan (not required) - Fill in here any additional details
 
