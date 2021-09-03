@@ -8,7 +8,7 @@ Resource the documentation and tracking of Catalyst-Swarm.
 
 ## Relevant experience
 
-Stephen has 30 years' experience in organizing academic, community and business projects.
+Stephen has 30 years' experience in organizing academic, community and business projects (See Detailed plan for more information).
 
 ## Website/GitHub repository (not required)
 
