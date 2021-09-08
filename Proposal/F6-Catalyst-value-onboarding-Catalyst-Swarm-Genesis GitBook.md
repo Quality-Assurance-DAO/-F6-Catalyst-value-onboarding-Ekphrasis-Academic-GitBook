@@ -4,7 +4,10 @@ Documentation of Catalyst-Swarm, a self organizing community supporting the succ
 
 ## Describe your solution to the problem
 
-Resource the documentation and tracking of Catalyst-Swarm.
+Resource the documentation & tracking of the Catalyst-Swarm Genesis GitBook.
+
+Communicate the content of the Catalyst-Swarm Genesis GitBook.
+
 
 ## Relevant experience
 
