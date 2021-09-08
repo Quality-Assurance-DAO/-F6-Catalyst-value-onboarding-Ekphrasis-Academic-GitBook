@@ -27,6 +27,16 @@ The Catalyst-Swarm-Genesis GitBook records the activities of the Catalyst-Swarm 
 
 The aim of this proposal is to fund maintenance of the Catalyst-Swarm-Genesis GitBook from November 2021 to January 2022. This assumes a single maintainer who collates materials relevant to Swarm and tracks daily activities.
 
+## Relevant experience (identifying information)
+
+Relevant experience (identifying information)
+
+Stephen Whitenstall has 30 years' experience in organizing academic, community and business projects. He develops, maintains documentation and provides technical project management support for Catalyst Swarm.
+
+In Fund 5 of Project Catalyst Stephen's QA-DAO (https://stephen-rowan.gitbook.io/quality-assurance-dao/) submitted a proposal "Quality Assurance DAO" in the Developer Ecosystem Challenge that was funded in August 2021.
+
+https://www.linkedin.com/in/stephen-whitenstall-166727210
+
 ## Sustainability
 
 QA-DAO (https://stephen-rowan.gitbook.io/quality-assurance-dao/) and Catalyst-Swarm are seeking GitHub sponsorship ( https://github.com/sponsors/Quality-Assurance-DAO)) and will also explore StakePool Operator sponsorship. The aim being to become independent of Project Catalyst funding. As it takes time to build up sufficient sponsorship - this proposal seeks to fill the gap.
@@ -50,12 +60,6 @@ Promotion, engagement and communication on Social Media (Twitter, Telegram, Yout
 2 hours per week for 3 months = 24 hours = $40 hour for 24 hours = $ 960  
 
 Total: $ 3480
-
-## Relevant experience (identifying information)
-
-Stephen Whitenstall: Stephen Whitenstall has 30 years' experience in organizing academic, community and business projects. He develops, maintains documentation and provides technical project management support for Catalyst Swarm. As QA-DAO he tracks and documents the Catalyst Circle and maintains 'Ekphrasis' a repository of academic content from across the Cardano community.
-
-https://www.linkedin.com/in/stephen-whitenstall-166727210
 
 ## Requested funds in USD 
 
