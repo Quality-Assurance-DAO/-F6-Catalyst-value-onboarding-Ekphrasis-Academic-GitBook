@@ -29,7 +29,7 @@ The aim of this proposal is to fund maintenance of the Catalyst-Swarm-Genesis Gi
 
 ## Sustainability
 
-QA-DAO (https://stephen-rowan.gitbook.io/quality-assurance-dao/) and Catalyst-Swarm are seeking GitHub sponsorship and will also explore StakePool Operator sponsorship. The aim being to become independent of Project Catalyst funding. As it takes time to build up sufficient sponsorship - this proposal seeks to fill the gap.
+QA-DAO (https://stephen-rowan.gitbook.io/quality-assurance-dao/) and Catalyst-Swarm are seeking GitHub sponsorship ( https://github.com/sponsors/Quality-Assurance-DAO)) and will also explore StakePool Operator sponsorship. The aim being to become independent of Project Catalyst funding. As it takes time to build up sufficient sponsorship - this proposal seeks to fill the gap.
 
 ## Maintenance
 
