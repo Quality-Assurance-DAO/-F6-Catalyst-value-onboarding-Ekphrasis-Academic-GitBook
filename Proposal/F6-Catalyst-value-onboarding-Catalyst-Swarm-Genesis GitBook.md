@@ -37,12 +37,19 @@ Whilst the Catalyst-Swarm-Genesis GitBook content is open-source the maintenance
 
 ## Budget
 
+Maintenance
+
 Regular updates over 3 months (21 hours per month) to add content
 
-$40 per hour for 63 hours (21 x 3) = $ 2540
+$40 per hour for 63 hours (21 x 3) = $ 2520
 
-Total: $ 2540
+Marketing
 
+Promotion, engagement and communication on Social Media (Twitter, Telegram, Youtube, Discord).
+
+2 hours per week for 3 months = 24 hours = $40 hour for 24 hours = $ 960  
+
+Total: $ 3480
 
 ## Relevant experience (identifying information)
 
