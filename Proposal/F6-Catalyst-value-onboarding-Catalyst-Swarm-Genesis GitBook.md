@@ -30,6 +30,16 @@ The evolution of Catalyst-Swarm from Swarm sessions in April 2021 ( https://cata
 The GitBook provides a useful reference tool for anyone interested in Catalyst-Swarm and its development and a valuable context for a community emerging out of the Project Catalyst experiment.  Catalyst Town Hall videos and slides are embedded alongside related After Town Hall "open space" events and activities. A summary of voting results for Fund 4 and 5 is included to provide further context.
 
 In addition details of Catalyst-Swarm's evolving organization are documented in a governance section ( https://catalyst-swarm.gitbook.io/catalyst-swarm-genesis/governance/overview ). This aims to provide transparency and accountability to the community that Catalyst-Swarm supports.
+
+
+### The aim of this proposal
+
+The aim of this proposal is to fund maintenance of the Catalyst-Swarm-Genesis GitBook from November 2021 to January 2022. This assumes a single maintainer who collates materials relevant to Swarm and tracks daily activities.
+
+The GitBook maintainer also regularly posts links to updated content on Project Catalyst and Swarm Discord Servers. In context links are also posted in Town Hall chat where appropriate.
+
+A part of the budget has been set aside for marketing - so that the Catalyst-Swarm-Genesis GitBook may achieve a wider reach and provide insights into Project Catalyst on social media.
+
 --------------------------------------------------------------------------------------------------
 
 ### Relevant experience (identifying information)
