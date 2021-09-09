@@ -17,19 +17,23 @@ Stephen has 30 years' experience in organizing academic, community and business 
 
 https://catalyst-swarm.gitbook.io/catalyst-swarm-genesis/
 
-## Detailed plan (not required) - Fill in here any additional details
+--------------------------------------------------------------------------------------------------
 
-## Background
+## Detailed plan
+
+### Background
 
 The Catalyst-Swarm-Genesis GitBook records the activities of the Catalyst-Swarm which formed in April 2021 out of the Project Catalyst experiment.
 
-## Proposal
+--------------------------------------------------------------------------------------------------
+
+### Proposal
 
 The aim of this proposal is to fund maintenance of the Catalyst-Swarm-Genesis GitBook from November 2021 to January 2022. This assumes a single maintainer who collates materials relevant to Swarm and tracks daily activities.
 
-## Relevant experience (identifying information)
+--------------------------------------------------------------------------------------------------
 
-Relevant experience (identifying information)
+### Relevant experience (identifying information)
 
 Stephen Whitenstall has 30 years' experience in organizing academic, community and business projects. He develops, maintains documentation and provides technical project management support for Catalyst Swarm.
 
@@ -37,15 +41,49 @@ In Fund 5 of Project Catalyst Stephen's QA-DAO (https://stephen-rowan.gitbook.io
 
 https://www.linkedin.com/in/stephen-whitenstall-166727210
 
-## Sustainability
+--------------------------------------------------------------------------------------------------
 
-QA-DAO (https://stephen-rowan.gitbook.io/quality-assurance-dao/) and Catalyst-Swarm are seeking GitHub sponsorship ( https://github.com/sponsors/Quality-Assurance-DAO)) and will also explore StakePool Operator sponsorship. The aim being to become independent of Project Catalyst funding. As it takes time to build up sufficient sponsorship - this proposal seeks to fill the gap.
+ ### Sustainability
 
-## Maintenance
+QA-DAO (https://stephen-rowan.gitbook.io/quality-assurance-dao/) and Catalyst-Swarm are seeking GitHub sponsorship ( https://github.com/sponsors/Quality-Assurance-DAO) and will also explore StakePool Operator sponsorship. The aim being to become independent of Project Catalyst funding. As it takes time to build up sufficient sponsorship - this proposal seeks to fill the gap.
 
-Whilst the Catalyst-Swarm-Genesis GitBook content is open-source the maintenance is currently restricted. The reason for this is the organizational overhead involved in sharing the maintainer role and soliciting and reviewing submissions from the community.
+--------------------------------------------------------------------------------------------------
 
-## Budget
+### Maintenance
+
+Whilst the Catalyst-Swarm-Genesis GitBook content is open-source the maintenance is currently the work of @swhitenstall. The reason for this is the organizational overhead involved in sharing the maintainer role and soliciting and reviewing submissions from the community.
+
+--------------------------------------------------------------------------------------------------
+
+### Roadmap (Definition of success after 3, 6 and 12 months)
+
+Prior to funding
+
+Catalyst-Swarm-Genesis - July 2021 to September 2021 ongoing
+
+The Catalyst-Swarm-Genesis GitBook has been maintained since June 27th 2021. A presentation of the GitBook was given at Project Catalyst Town Hall #16 on July 14th, 2021 and is attached to this proposal below. Sponsorships are being sought.
+
+3 months
+
+Catalyst-Swarm-Genesis - October 2021 to December 2021
+
+Once funded Catalyst-Swarm-Genesis will aim to communicate its documentation and tracking via social media to reach a wider audience. Sponsorships are being sought.
+
+6 months
+
+Catalyst-Swarm-Genesis - January 2022 to March 2022
+
+In the medium term Catalyst-Swarm-Genesis aims to be self-sustaining and sponsorships will help achieve this aim.
+
+12 months
+
+Catalyst-Swarm-Genesis - April 2022 to September 2022
+
+In the long term Catalyst-Swarm-Genesis should be self-sustaining and sponsorships will help achieve this aim.
+
+ --------------------------------------------------------------------------------------------------
+
+### Budget
 
 Maintenance
 
@@ -57,9 +95,13 @@ Marketing
 
 Promotion, engagement and communication on Social Media (Twitter, Telegram, Youtube, Discord).
 
-2 hours per week for 3 months = 24 hours = $40 hour for 24 hours = $ 960  
+2 hours per week for 3 months = 24 hours = $40 hour for 24 hours = $ 960
 
-Total: $ 3480
+ 
+
+### Total: $ 3480
+
+--------------------------------------------------------------------------------------------------
 
 ## Requested funds in USD 
 
