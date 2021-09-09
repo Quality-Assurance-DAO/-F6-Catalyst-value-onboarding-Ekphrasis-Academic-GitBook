@@ -21,16 +21,15 @@ https://catalyst-swarm.gitbook.io/catalyst-swarm-genesis/
 
 ## Detailed plan
 
-### Background
+### The Solution - providing a context to Catalyst-Swarm
 
-The Catalyst-Swarm-Genesis GitBook records the activities of the Catalyst-Swarm which formed in April 2021 out of the Project Catalyst experiment.
+The Catalyst-Swarm-Genesis GitBook has been recording the activities of the Catalyst-Swarm from its formation in April 2021.
 
---------------------------------------------------------------------------------------------------
+The evolution of Catalyst-Swarm from Swarm sessions in April 2021 ( https://catalyst-swarm.gitbook.io/catalyst-swarm-genesis/april-2021/swarm-sessions ) through organizing After Town Halls from June 2021 ( https://catalyst-swarm.gitbook.io/catalyst-swarm-genesis/june-2021/after-town-hall#june-16th-town-hall ) to hosting Idea Fest in July 2021 ( https://catalyst-swarm.gitbook.io/catalyst-swarm-genesis/july-2021/catalyst-idea-fest-july-2021 ) is all documented in the Catalyst-Swarm-Genesis GitBook.
 
-### Proposal
+The GitBook provides a useful reference tool for anyone interested in Catalyst-Swarm and its development and a valuable context for a community emerging out of the Project Catalyst experiment.  Catalyst Town Hall videos and slides are embedded alongside related After Town Hall "open space" events and activities. A summary of voting results for Fund 4 and 5 is included to provide further context.
 
-The aim of this proposal is to fund maintenance of the Catalyst-Swarm-Genesis GitBook from November 2021 to January 2022. This assumes a single maintainer who collates materials relevant to Swarm and tracks daily activities.
-
+In addition details of Catalyst-Swarm's evolving organization are documented in a governance section ( https://catalyst-swarm.gitbook.io/catalyst-swarm-genesis/governance/overview ). This aims to provide transparency and accountability to the community that Catalyst-Swarm supports.
 --------------------------------------------------------------------------------------------------
 
 ### Relevant experience (identifying information)
